@@ -1,0 +1,24 @@
+[
+  {
+    "query": "What is the travel reimbursement policy?",
+    "expected_route": "knowledge",
+    "expected_contains": [
+      "30 days"
+    ]
+  },
+  {
+    "query": "Tell me about Northstar Bank",
+    "expected_route": "customer",
+    "expected_contains": [
+      "Financial Services",
+      "High"
+    ]
+  },
+  {
+    "query": "Multiply 12 and 7",
+    "expected_route": "calculator",
+    "expected_contains": [
+      "84"
+    ]
+  }
+]

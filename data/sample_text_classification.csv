@@ -1,0 +1,6 @@
+id,text,label
+1,login issue,authentication
+2,invoice problem,billing
+3,network latency,network
+4,password reset,authentication
+5,refund request,billing

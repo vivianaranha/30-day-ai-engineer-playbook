@@ -1,0 +1,16 @@
+# Day 7 Exercise
+
+## Task
+
+Run two algorithms and create a short experiment note.
+
+## Stretch Goal
+
+Improve reliability, evaluation, latency, cost, security, or architecture.
+
+## Reflection
+
+1. What did you build?
+2. What evidence says it works?
+3. What is still simulated?
+4. What would prevent production use?
